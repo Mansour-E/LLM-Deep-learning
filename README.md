@@ -66,7 +66,7 @@ Optimization: Hands-on experience with Adam, RMSProp, and learning rate scheduli
 Performance: All solutions are optimized for efficiency and documented with technical insights.
 
 ### 🤝 Contact
-Author: Mansour Emami
-GitHub: https://github.com/Mansour-E
-Linkedin:  https://www.linkedin.com/in/mansour-emami/de/
-License: This project is licensed under the MIT License.
+Author: Mansour Emami \n
+GitHub: https://github.com/Mansour-E \n
+Linkedin:  https://www.linkedin.com/in/mansour-emami/de/ \n
+License: This project is licensed under the MIT License. \n
